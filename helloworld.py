@@ -1,0 +1,5 @@
+first = input('What is your first name? ')
+last = input('What is your last name? ')
+middle = input('What is your middle name? ')
+# print (f'Your name is {last}, {first} {last}.')
+print (f'Your name is {last.title()}, {first.title()} {middle.title()}.')
