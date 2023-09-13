@@ -12,7 +12,7 @@ verb3 = input('Enter one more verb: ')
 print()
 
 #Print a story using inputs that the user entered
-print('Once upon a time, in a', adjective, 'forest, there lived a majestic', animal, 'who loved to', verb1, '. One day, while', verb2, 'through the woods, the', animal, 'heard a strange noise. ', exclamation, '! exclaimed the', animal, '. As the', animal, 'moved closer to the sound, it discovered a hidden treasure. Excitedly, the', animal, verb3, 'back to its home in the forest, and shared the treasure with all of its animal friends.')
+print('The other day, I was really in trouble. It all started when I saw a very', adjective, animal, verb1, 'down the hallway.' , exclamation, '! I yelled. But all I could think to do was to', verb2, 'over and over. Miraculously, that caused it to stop, but not before it tried to', verb3, 'right in front of my family.')
 
 '''Additional creativity'''
 #Print a message to inform the user that the story has been printed
