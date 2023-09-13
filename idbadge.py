@@ -1,5 +1,5 @@
 
-print('Please enter the following information')
+print('\nPlease enter the following information')
 
 print()
 
@@ -27,6 +27,6 @@ print()
 print(email.lower())
 print(phone)
 print()
-print(f'Hair: {hair_color:} Eyes: {eye_color}')
-print(f'Month: {month:} Training: {training:}')
+print(f'Hair: {hair_color.capitalize():} | Eyes: {eye_color.capitalize()}')
+print(f'Month: {month.capitalize():} | Training: {training.capitalize():}')
 print('============================================')
